@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: ab6d51882b2290342b258795496e1f83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8585241978915725359
+    second: Jotaro Idle_0
+  - first:
+      213: -7980085729172350753
+    second: Jotaro Idle_1
+  - first:
+      213: -6441539283679705422
+    second: Jotaro Idle_2
+  - first:
+      213: -2219536803126898008
+    second: Jotaro Idle_3
+  - first:
+      213: 4120991267074666586
+    second: Jotaro Idle_4
+  - first:
+      213: -6303173094984637870
+    second: Jotaro Idle_5
+  - first:
+      213: -132999611745680086
+    second: Jotaro Idle_6
+  - first:
+      213: 1281398377881792642
+    second: Jotaro Idle_7
+  - first:
+      213: -4712784934414384379
+    second: Jotaro Idle_8
+  - first:
+      213: 7535532387276619248
+    second: Jotaro Idle_9
+  - first:
+      213: -3148342384328610662
+    second: Jotaro Idle_10
+  - first:
+      213: 2130692806858764302
+    second: Jotaro Idle_11
+  - first:
+      213: 1221583346471893638
+    second: Jotaro Idle_12
+  - first:
+      213: -7391178765707686777
+    second: Jotaro Idle_13
+  - first:
+      213: 1402381289864560044
+    second: Jotaro Idle_14
+  - first:
+      213: 5257930811612458165
+    second: Jotaro Idle_15
+  - first:
+      213: -1193393399292965966
+    second: Jotaro Idle_16
+  - first:
+      213: -4402642272844412717
+    second: Jotaro Idle_17
+  - first:
+      213: -5431954457933699186
+    second: Jotaro Idle_18
+  - first:
+      213: -9134083978844184991
+    second: Jotaro Idle_19
+  - first:
+      213: 4557902693686685876
+    second: Jotaro Idle_20
+  - first:
+      213: 7636593246604316336
+    second: Jotaro Idle_21
+  - first:
+      213: 8690068587459405155
+    second: Jotaro Idle_22
+  - first:
+      213: -7450526248682899067
+    second: Jotaro Idle_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jotaro Idle_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfd4ff18e71bd880800000000000000
+      internalID: -8585241978915725359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd894834f4a014190800000000000000
+      internalID: -7980085729172350753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b60c85762e0b96a0800000000000000
+      internalID: -6441539283679705422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a217b3890f9231e0800000000000000
+      internalID: -2219536803126898008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50f87439b3b03930800000000000000
+      internalID: 4120991267074666586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25224ab3771a688a0800000000000000
+      internalID: -6303173094984637870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_6
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2542aace8d772ef0800000000000000
+      internalID: -132999611745680086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_7
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280f769190178c110800000000000000
+      internalID: 1281398377881792642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_8
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5030b615213d89eb0800000000000000
+      internalID: -4712784934414384379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_9
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdf21108c6939860800000000000000
+      internalID: 7535532387276619248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_10
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c69c63847de44d0800000000000000
+      internalID: -3148342384328610662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_11
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00fb46a1ddb19d10800000000000000
+      internalID: 2130692806858764302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_12
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a7df5d49fe3f010800000000000000
+      internalID: 1221583346471893638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_13
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c459e92124d6990800000000000000
+      internalID: -7391178765707686777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadf70e5a52467310800000000000000
+      internalID: 1402381289864560044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcedb7273ce7f840800000000000000
+      internalID: 5257930811612458165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_16
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbc8d5b607307fe0800000000000000
+      internalID: -1193393399292965966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_17
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d88df5dd2ca6e2c0800000000000000
+      internalID: -4402642272844412717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_18
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8723c24332dd94b0800000000000000
+      internalID: -5431954457933699186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_19
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ed76404073d3180800000000000000
+      internalID: -9134083978844184991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0bdf1e95ce04f30800000000000000
+      internalID: 4557902693686685876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_21
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be4ffde811aaf960800000000000000
+      internalID: 7636593246604316336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3656c4d9653599870800000000000000
+      internalID: 8690068587459405155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 9
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5893885f9d96a9890800000000000000
+      internalID: -7450526248682899067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
