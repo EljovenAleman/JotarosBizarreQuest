@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: b770c186e995a874b8604cfe5db242b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4666600201847193107
+    second: Jotaro Crouch_0
+  - first:
+      213: -2842370272989320873
+    second: Jotaro Crouch_1
+  - first:
+      213: -3748042570398980638
+    second: Jotaro Crouch_2
+  - first:
+      213: 8574272900512563521
+    second: Jotaro Crouch_3
+  - first:
+      213: 7621584938225892467
+    second: Jotaro Crouch_4
+  - first:
+      213: 5821079371127791511
+    second: Jotaro Crouch_5
+  - first:
+      213: 108524678892010638
+    second: Jotaro Crouch_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jotaro Crouch_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 11
+        width: 97
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5033571, y: 0.55735654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1c12457d7ec3fb0800000000000000
+      internalID: -4666600201847193107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Crouch_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 12
+        width: 91
+        height: 75
+      alignment: 9
+      pivot: {x: 0.48174596, y: 0.7016737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7596756db4fdd88d0800000000000000
+      internalID: -2842370272989320873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Crouch_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 12
+        width: 104
+        height: 72
+      alignment: 9
+      pivot: {x: 0.40134752, y: 0.7209125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5a354e3274cfbc0800000000000000
+      internalID: -3748042570398980638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Crouch_3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 12
+        width: 89
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4551635, y: 0.73174804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1414f4a46cfedf670800000000000000
+      internalID: 8574272900512563521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Crouch_4
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 12
+        width: 95
+        height: 72
+      alignment: 9
+      pivot: {x: 0.44966462, y: 0.7097656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cfb64de1f45c960800000000000000
+      internalID: 7621584938225892467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Crouch_5
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 12
+        width: 89
+        height: 72
+      alignment: 9
+      pivot: {x: 0.47282085, y: 0.7534974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f1d6db8d0a8c050800000000000000
+      internalID: 5821079371127791511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Crouch_6
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 12
+        width: 95
+        height: 72
+      alignment: 9
+      pivot: {x: 0.45787674, y: 0.720757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cb8b6de9e818100800000000000000
+      internalID: 108524678892010638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
