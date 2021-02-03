@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -13,6 +14,8 @@ public class PlayerMovement : MonoBehaviour
     //HitBoxes
     public Collider2D idleCollider;
     public Collider2D crouchingCollider;
+    public Collider2D highHitCollider;
+    public Collider2D lowHitCollider;
     
 
 
@@ -38,7 +41,40 @@ public class PlayerMovement : MonoBehaviour
         rb.velocity = new Vector2(xMov * speed, yMov);
         rb.gravityScale = 2;
 
-        if(Input.GetKeyDown(KeyCode.W) && isJumping == false)
+
+        CheckForPlayerMovement();
+        CheckForPlayerAction();
+
+
+        
+
+        
+    }
+
+    private void CheckForPlayerAction()
+    {
+        if(Input.GetKeyDown(KeyCode.J))
+        {
+            if(isJumping == false && isCrouching == false)
+            {
+                highHitCollider.enabled = true;
+                animator.SetTrigger("ThrowPunch");
+            }
+            else if(isJumping == false && isCrouching == true)
+            {
+                lowHitCollider.enabled = true;
+                animator.SetTrigger("ThrowPunch");
+            }            
+        }        
+        if(Input.GetKeyUp(KeyCode.J))
+        {
+            highHitCollider.enabled = false;
+        }
+    }
+
+    private void CheckForPlayerMovement()
+    {
+        if (Input.GetKeyDown(KeyCode.W) && isJumping == false)
         {
             rb.AddForce(new Vector2(0, jumpForce), ForceMode2D.Impulse);
             isJumping = true;
@@ -46,7 +82,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
 
-        if(Input.GetKeyDown(KeyCode.S))
+        if (Input.GetKeyDown(KeyCode.S))
         {
             idleCollider.enabled = false;
             crouchingCollider.enabled = true;
@@ -56,7 +92,7 @@ public class PlayerMovement : MonoBehaviour
             animator.SetBool("Crouching", isCrouching);
             animator.SetBool("StandingUp", isStandingUp);
         }
-        else if(Input.GetKeyUp(KeyCode.S))
+        else if (Input.GetKeyUp(KeyCode.S))
         {
             idleCollider.enabled = true;
             crouchingCollider.enabled = false;
@@ -66,11 +102,11 @@ public class PlayerMovement : MonoBehaviour
             animator.SetBool("Crouching", isCrouching);
             animator.SetBool("StandingUp", isStandingUp);
         }
-        
 
 
 
-        if(xMov != 0)
+
+        if (xMov != 0)
         {
             isWalking = true;
             isCrouching = false;
@@ -82,8 +118,6 @@ public class PlayerMovement : MonoBehaviour
             isWalking = false;
             animator.SetBool("Walking", isWalking);
         }
-
-        
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

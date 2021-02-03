@@ -1,0 +1,785 @@
+fileFormatVersion: 2
+guid: 76cbea57aa1579e44ad2c63607ffbaf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4163454292130515677
+    second: Jotaro Low Attack_0
+  - first:
+      213: -8131206426809233428
+    second: Jotaro Low Attack_1
+  - first:
+      213: 4277051000867700768
+    second: Jotaro Low Attack_2
+  - first:
+      213: 4051030114445509161
+    second: Jotaro Low Attack_3
+  - first:
+      213: 760103620323592829
+    second: Jotaro Low Attack_4
+  - first:
+      213: 8033935449084879023
+    second: Jotaro Low Attack_5
+  - first:
+      213: 7526788309976838202
+    second: Jotaro Low Attack_6
+  - first:
+      213: -4364417911634365428
+    second: Jotaro Low Attack_7
+  - first:
+      213: -2226528812342268833
+    second: Jotaro Low Attack_8
+  - first:
+      213: -8067619972263371676
+    second: Jotaro Low Attack_9
+  - first:
+      213: 8453519411203986150
+    second: Jotaro Low Attack_10
+  - first:
+      213: -8398898098726401041
+    second: Jotaro Low Attack_11
+  - first:
+      213: -6472623954115521662
+    second: Jotaro Low Attack_12
+  - first:
+      213: -4767183611601524652
+    second: Jotaro Low Attack_13
+  - first:
+      213: -8471476814323154116
+    second: Jotaro Low Attack_14
+  - first:
+      213: -4373626630168887713
+    second: Jotaro Low Attack_15
+  - first:
+      213: 2373672662276473888
+    second: Jotaro Low Attack_16
+  - first:
+      213: 88780230876220278
+    second: Jotaro Low Attack_17
+  - first:
+      213: -2624748074072544372
+    second: Jotaro Low Attack_18
+  - first:
+      213: 8771375761926122033
+    second: Jotaro Low Attack_19
+  - first:
+      213: -8304858589523760402
+    second: Jotaro Low Attack_20
+  - first:
+      213: 5015234246546692091
+    second: Jotaro Low Attack_21
+  - first:
+      213: 4733536997627243494
+    second: Jotaro Low Attack_22
+  - first:
+      213: -3436162738520141118
+    second: Jotaro Low Attack_23
+  - first:
+      213: 3687589456468598418
+    second: Jotaro Low Attack_24
+  - first:
+      213: 6273235812046751158
+    second: Jotaro Low Attack_25
+  - first:
+      213: -4855009564724775246
+    second: Jotaro Low Attack_26
+  - first:
+      213: 6935850712483756117
+    second: Jotaro Low Attack_27
+  - first:
+      213: 2385054760137997882
+    second: Jotaro Low Attack_28
+  - first:
+      213: -6060787628886164735
+    second: Jotaro Low Attack_29
+  - first:
+      213: -487856690353045356
+    second: Jotaro Low Attack_30
+  - first:
+      213: 2366868479738711687
+    second: Jotaro Low Attack_31
+  - first:
+      213: -4861115941484920568
+    second: Jotaro Low Attack_32
+  - first:
+      213: -2089799593693348307
+    second: Jotaro Low Attack_0
+  - first:
+      213: 4738146205025876792
+    second: Jotaro Low Attack_1
+  - first:
+      213: 3230645429051535250
+    second: Jotaro Low Attack_2
+  - first:
+      213: 8192063337130488660
+    second: Jotaro Low Attack_3
+  - first:
+      213: -8264598838895048583
+    second: Jotaro Low Attack_4
+  - first:
+      213: -3290372912375173038
+    second: Jotaro Low Attack_5
+  - first:
+      213: 970675912992087265
+    second: Jotaro Low Attack_6
+  - first:
+      213: -4191315832337271214
+    second: Jotaro Low Attack_7
+  - first:
+      213: 34621019954732358
+    second: Jotaro Low Attack_8
+  - first:
+      213: -5197007052942966417
+    second: Jotaro Low Attack_9
+  - first:
+      213: 6660064969486304496
+    second: Jotaro Low Attack_10
+  - first:
+      213: -1330545214440454530
+    second: Jotaro Low Attack_11
+  - first:
+      213: -732599175535546571
+    second: Jotaro Low Attack_12
+  - first:
+      213: 902799296327948343
+    second: Jotaro Low Attack_13
+  - first:
+      213: -4000191183277666313
+    second: Jotaro Low Attack_14
+  - first:
+      213: -4924697114250212289
+    second: Jotaro Low Attack_15
+  - first:
+      213: -4945079514332202859
+    second: Jotaro Low Attack_16
+  - first:
+      213: -2532146806279228654
+    second: Jotaro Low Attack_17
+  - first:
+      213: -2791053908267029108
+    second: Jotaro Low Attack_18
+  - first:
+      213: 7340068248274628328
+    second: Jotaro Low Attack_19
+  - first:
+      213: -152562196622911196
+    second: Jotaro Low Attack_20
+  - first:
+      213: -3221892618546719074
+    second: Jotaro Low Attack_21
+  - first:
+      213: -29977862656797718
+    second: Jotaro Low Attack_22
+  - first:
+      213: -8503323028951985506
+    second: Jotaro Low Attack_23
+  - first:
+      213: -4513914774749855921
+    second: Jotaro Low Attack_24
+  - first:
+      213: -2539855903411717808
+    second: Jotaro Low Attack_25
+  - first:
+      213: -7508176911860213055
+    second: Jotaro Low Attack_26
+  - first:
+      213: 8130165695095505465
+    second: Jotaro Low Attack_27
+  - first:
+      213: -4752501660611339428
+    second: Jotaro Low Attack_28
+  - first:
+      213: 2947120632549881343
+    second: Jotaro Low Attack_29
+  - first:
+      213: -9122404997888362028
+    second: Jotaro Low Attack_30
+  - first:
+      213: 1174267504907024049
+    second: Jotaro Low Attack_31
+  - first:
+      213: 1335277254650221590
+    second: Jotaro Low Attack_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jotaro Low Attack_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 101
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4943986, y: 0.3505554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bbe64aed641c140800000000000000
+      internalID: 4738146205025876792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 8
+        width: 120
+        height: 103
+      alignment: 9
+      pivot: {x: 0.33498853, y: 0.35169536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f2bd9a6ee85dc20800000000000000
+      internalID: 3230645429051535250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 8
+        width: 125
+        height: 105
+      alignment: 9
+      pivot: {x: 0.28275073, y: 0.3437439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453f923a33e00b170800000000000000
+      internalID: 8192063337130488660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 8
+        width: 163
+        height: 91
+      alignment: 9
+      pivot: {x: 0.22232936, y: 0.38809255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9780e8cc42f3e4d80800000000000000
+      internalID: -8264598838895048583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_5
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 8
+        width: 144
+        height: 94
+      alignment: 9
+      pivot: {x: 0.24462509, y: 0.38564548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2507f43f44f3652d0800000000000000
+      internalID: -3290372912375173038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_6
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 8
+        width: 144
+        height: 94
+      alignment: 9
+      pivot: {x: 0.24855423, y: 0.37962678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecdbe99998887d00800000000000000
+      internalID: 970675912992087265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_7
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 8
+        width: 144
+        height: 94
+      alignment: 9
+      pivot: {x: 0.24855423, y: 0.3736081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256f010057475d5c0800000000000000
+      internalID: -4191315832337271214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_9
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 8
+        width: 140
+        height: 94
+      alignment: 9
+      pivot: {x: 0.24945243, y: 0.37962678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61822ace9580e7b0800000000000000
+      internalID: -5197007052942966417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_12
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 8
+        width: 118
+        height: 94
+      alignment: 9
+      pivot: {x: 0.30342644, y: 0.37962678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fa57b6ee845d5f0800000000000000
+      internalID: -732599175535546571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_15
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 8
+        width: 116
+        height: 94
+      alignment: 9
+      pivot: {x: 0.30491376, y: 0.37962678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c89b61116f7abb0800000000000000
+      internalID: -4924697114250212289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_16
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 8
+        width: 116
+        height: 92
+      alignment: 9
+      pivot: {x: 0.3097913, y: 0.3831593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598fa22c16c8f5bb0800000000000000
+      internalID: -4945079514332202859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_18
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 9
+        width: 95
+        height: 94
+      alignment: 9
+      pivot: {x: 0.4106728, y: 0.34953344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d27c0124f2449d0800000000000000
+      internalID: -2791053908267029108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_19
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 9
+        width: 95
+        height: 90
+      alignment: 9
+      pivot: {x: 0.41662982, y: 0.36170438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee6885be292dd560800000000000000
+      internalID: 7340068248274628328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_20
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 9
+        width: 91
+        height: 90
+      alignment: 9
+      pivot: {x: 0.4253976, y: 0.4119937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42953209d7df1edf0800000000000000
+      internalID: -152562196622911196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_21
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 8
+        width: 144
+        height: 97
+      alignment: 9
+      pivot: {x: 0.26034123, y: 0.37168452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96d117dbb98943d0800000000000000
+      internalID: -3221892618546719074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_23
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 8
+        width: 119
+        height: 97
+      alignment: 9
+      pivot: {x: 0.30032375, y: 0.365852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e921be8f1c02ef980800000000000000
+      internalID: -8503323028951985506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_24
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 8
+        width: 116
+        height: 96
+      alignment: 9
+      pivot: {x: 0.3097934, y: 0.36445472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fb5a89d6a5b51c0800000000000000
+      internalID: -4513914774749855921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_25
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 9
+        width: 95
+        height: 94
+      alignment: 9
+      pivot: {x: 0.4225843, y: 0.34953344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0593778338e90ccd0800000000000000
+      internalID: -2539855903411717808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_27
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 9
+        width: 104
+        height: 72
+      alignment: 9
+      pivot: {x: 0.39120483, y: 0.5392887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9320c3dcf9624d070800000000000000
+      internalID: 8130165695095505465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_28
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 9
+        width: 89
+        height: 72
+      alignment: 9
+      pivot: {x: 0.40465075, y: 0.54714644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b9ec46be8bb0eb0800000000000000
+      internalID: -4752501660611339428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_29
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 9
+        width: 95
+        height: 72
+      alignment: 9
+      pivot: {x: 0.40471834, y: 0.5235733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff53c5dc99646e820800000000000000
+      internalID: 2947120632549881343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_30
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 8
+        width: 89
+        height: 74
+      alignment: 9
+      pivot: {x: 0.41100937, y: 0.50785786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9bd9bacf4b66180800000000000000
+      internalID: -9122404997888362028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jotaro Low Attack_31
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 9
+        width: 103
+        height: 72
+      alignment: 9
+      pivot: {x: 0.38465658, y: 0.5550041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6744df216db4010800000000000000
+      internalID: 1174267504907024049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
